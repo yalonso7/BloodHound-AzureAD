@@ -71,7 +71,7 @@
         "framer-motion": "^1.8.3",
         "handlebars": "^4.4.2",
         "he": "^1.2.0",
-        "image-size": "^0.6.3",
+        "image-size": "^0.9.1",
         "image-type": "^3.0.0",
         "is-zip-file": "^1.0.2",
         "jquery": "^3.2.1",
