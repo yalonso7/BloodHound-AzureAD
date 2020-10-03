@@ -93,7 +93,7 @@
         "react-transition-group": "^4.2.0",
         "sanitize-filename": "^1.6.3",
         "stream-json": "^1.1.4",
-        "unzipper": "^0.8.9",
+        "unzipper": "^0.10.11",
         "uuid": "^3.3.2"
     }
 }
