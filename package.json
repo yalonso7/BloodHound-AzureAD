@@ -61,11 +61,11 @@
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "^5.1.1",
-        "async": "^2.6.0",
+        "async": "^3.0.0",
         "bootstrap": "^3.3.7",
         "clsx": "^1.0.4",
         "dagre": "^0.7.4",
-        "electron-store": "^1.3.0",
+        "electron-store": "^6.0.0",
         "eventemitter2": "^4.1.0",
         "fontfaceobserver": "^2.0.13",
         "framer-motion": "^1.8.3",
@@ -84,16 +84,16 @@
         "react-alert": "^5.5.0",
         "react-alert-template-basic": "^1.0.0",
         "react-bootstrap": "^0.32.4",
-        "react-bootstrap-typeahead": "^3.4.7",
+        "react-bootstrap-typeahead": "^4.0.0",
         "react-dom": "^16.8.6",
         "react-draggable": "^4.2.0",
         "react-if": "^3.4.3",
-        "react-images": "^1.0.0",
+        "react-images": "^1.1.0",
         "react-photo-gallery": "^8.0.0",
         "react-transition-group": "^4.2.0",
         "sanitize-filename": "^1.6.3",
         "stream-json": "^1.1.4",
-        "unzipper": "^0.8.9",
+        "unzipper": "^0.12.1",
         "uuid": "^3.3.2"
     }
 }
