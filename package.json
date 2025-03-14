@@ -83,7 +83,7 @@
         "react": "^16.8.6",
         "react-alert": "^5.5.0",
         "react-alert-template-basic": "^1.0.0",
-        "react-bootstrap": "^0.32.4",
+        "react-bootstrap": "^1.0.0",
         "react-bootstrap-typeahead": "^3.4.7",
         "react-dom": "^16.8.6",
         "react-draggable": "^4.2.0",
